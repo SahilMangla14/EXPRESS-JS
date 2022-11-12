@@ -1,0 +1,14 @@
+How we exchange data on the web
+
+1) we open the computer
+2) We go to our favourite search engine
+3) Then we provide the url or basically we request a web page
+4) These requests are in the form of http and that is why, these are called http messages
+5) Then these requests are send to the web server or in simple words node
+6) Then the node or the web server provides the response
+7) Suppose our computer works only from 8 in morning to 6 in evening
+8) What if I request a web page at 7 in evening
+9) To solve this problem, we have cloud which is basically a bunch of computers or web servers that make the thing available all the time
+10) We will be using node and more specifically express.js which is a framework of nodejs and it makes life easy
+
+How http messages are structured
